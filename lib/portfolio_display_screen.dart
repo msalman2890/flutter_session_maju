@@ -75,7 +75,8 @@ class PortfolioDisplayScreen extends StatelessWidget {
                       const SizedBox(
                         height: 10,
                       ),
-                      const Text("I am a Flutter Developer",
+                      const Text(
+                          "Muhammad Salman is an Tech Enthusiast working in the industry for the past 3.5 years. He is passionate Full Stack Mobile Developer and Data Analyst, has worked on many technologies/frameworks like Flutter/Dart, Swift, Java, Python, Nodejs, etc. He has worked on Mobile Team Lead and Trainer in different firms and currently working in Folio3 Pvt Ltd. He loves to contribute in developer communities. 👨‍💻",
                           style: TextStyle(
                               color: Color(0xff667486),
                               fontWeight: FontWeight.w500,
